@@ -155,3 +155,34 @@ span{
     font-weight: 700px;
 }
 
+
+/* hero section */
+
+.hero-section{
+    background-image: url(hero-image.jpg);
+    height: 300px;
+    background-size: cover;
+    
+}
+
+/* shop section */
+
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 23%;
+    background-color: #f3f3f3;
+    
+}
+
+.box-img{
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+}
+
